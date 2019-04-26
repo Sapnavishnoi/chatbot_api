@@ -1,0 +1,157 @@
+[
+    {
+      "programming": [
+        "The process of writing computer programs."
+      ]
+    },
+    {
+      "URL": [
+        "api bahut acche se samjh ay"
+      ]
+    },
+    {
+      "Backend": [
+        "Backend is another term used for background in programming"
+      ]
+    },
+    {
+      "Front-end": [
+        " The Front-end is the user interface of a computer or any device"
+      ]
+    },
+    {
+      "Token": [
+        "A token is the smallest individual unit in a program, often referring to a portion of a much larger data piece."
+      ]
+    },
+    {
+      "Machine language": [
+        "machine language is a lowest-level programming language consisting of binary digits or bits that are read by computers."
+      ]
+    },
+    {
+      "argument": [
+        " Arguments are said to be “passed” into a function, and functions are said to “take” arguments. Also known as a “parameter.”"
+      ]
+    },
+    {
+      "array": [
+        " a type of value that contains a sequence of other values"
+      ]
+    },
+    {
+      "bug": [
+        " a mistake in a program"
+      ]
+    },
+    {
+      "comment": [
+        "arbitrary text written around code, but which is never run"
+      ]
+    },
+    {
+      "compiler": [
+        " a program that converts code into an executable, and checks that the syntax is correct."
+      ]
+    },
+    {
+      "constant": [
+        "  a variable that never changes its value."
+      ]
+    },
+    {
+      "crash": [
+        " to cause a running program to stop due to an error"
+      ]
+    },
+    {
+      "debug": [
+        "to investigate and fix bugs"
+      ]
+    },
+    {
+      "function": [
+        "a piece of code that is not run until it is called"
+      ]
+    },
+    {
+      "integer": [
+        " a type of value that represents whole numbers"
+      ]
+    },
+    {
+      "float": [
+        " a type of value that represents numbers with fractional parts"
+      ]
+    },
+    {
+      "object": [
+        " a value created from a class"
+      ]
+    },
+    {
+      "program": [
+        "a full piece of software that is ready to be run"
+      ]
+    },
+    {
+      "return": [
+        " A function automatically returns once all of its code has been run"
+      ]
+    },
+    {
+      "string": [
+        "a type of value that represents text"
+      ]
+    },
+    {
+      "variable": [
+        "a named container for a single value"
+      ]
+    },
+    {
+      "type": [
+        "the kind or category of a value"
+      ]
+    },
+    {
+      "loop": [
+        "a piece of code that runs itself repeatedly."
+      ]
+    },
+    {
+      "method": [
+        "a function that is attached to an object."
+      ]
+    },
+    {
+      "implement": [
+        "to write all the code to complete something – usually a function or a class."
+      ]
+    },
+    {
+      "assignment": [
+        "the act of putting a value into a variable."
+      ]
+    },
+    {
+      "html": [
+        "HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages"
+      ]
+    },
+    {
+      "node.js": [
+        "Node.js is an open source server environment."
+      ]
+    },
+    {
+      "express": [
+        "Express is a fast, assertive, essential and moderate web framework of Node.js"
+      ]
+    },
+    {
+      "hapi": [
+        "A rich framework for building applications and services"
+      ]
+    }
+  ]
